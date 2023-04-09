@@ -1,0 +1,74 @@
+[ReportManager] Setting discrete logging to: 'false' @09-04-2023 16:26:37.0301 PM
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                             Test Method: 'SteeringCompanyPortal.AddNewCreationalPeriod.testAddNewCreationalPeriod'                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Setting discrete logging to: 'false' @09-04-2023 16:26:37.0302 PM
+[ReportManager] Target URL: "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml" @09-04-2023 16:26:37.0364 PM
+[ReportManager] Initial URL: "data:," @09-04-2023 16:26:37.0406 PM
+[ReportManager] File Action "CreateFile" successfully performed. With the following test data "Target Folder: "allure-results//screenshots/20230409-162647", Target File: "\1681050408391_testAddNewCreationalPeriod.gif"". @09-04-2023 16:26:48.0930 PM
+[ReportManager] Navigate to url "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml". @09-04-2023 16:26:50.0770 PM
+[ReportManager] Click "تسجيل الدخول". @09-04-2023 16:26:52.0621 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.id: loginForm:j_username", isExpectedToBeVisible"true"... @09-04-2023 16:26:57.0737 PM
+[ReportManager] Wait to be ready "waited for the element's state of visibility to be (true). Element locator (By.id: loginForm:j_username)" against "By.id: loginForm:j_username". @09-04-2023 16:26:58.0360 PM
+[ReportManager] Type "1000000000" into "By.id: loginForm:j_username". @09-04-2023 16:26:59.0252 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.id: loginForm:j_password", isExpectedToBeVisible"true"... @09-04-2023 16:26:59.0275 PM
+[ReportManager] Wait to be ready "waited for the element's state of visibility to be (true). Element locator (By.id: loginForm:j_password)" against "By.id: loginForm:j_password". @09-04-2023 16:26:59.0984 PM
+[ReportManager] Type "123" into "By.id: loginForm:j_password". @09-04-2023 16:27:00.0709 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //div[@id='loginForm:rememberme']/div[2]/span", isExpectedToBeVisible"true"... @09-04-2023 16:27:00.0722 PM
+[ReportManager] Wait to be ready "waited for the element's state of visibility to be (true). Element locator (By.xpath: //div[@id='loginForm:rememberme']/div[2]/span)" against "By.xpath: //div[@id='loginForm:rememberme']/div[2]/span". @09-04-2023 16:27:01.0342 PM
+[ReportManager] Click "By.xpath: //div[@id='loginForm:rememberme']/div[2]/span". @09-04-2023 16:27:02.0221 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //button[@id='loginForm:j_idt49']/span", isExpectedToBeVisible"true"... @09-04-2023 16:27:02.0243 PM
+[ReportManager] Wait to be ready "waited for the element's state of visibility to be (true). Element locator (By.xpath: //button[@id='loginForm:j_idt49']/span)" against "By.xpath: //button[@id='loginForm:j_idt49']/span". @09-04-2023 16:27:02.0886 PM
+[ReportManager] Click "By.xpath: //button[@id='loginForm:j_idt49']/span". @09-04-2023 16:27:03.0800 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.id: loginForm:j_idt36", isExpectedToBeVisible"true"... @09-04-2023 16:27:03.0827 PM
+[ReportManager] Wait to be ready "waited for the element's state of visibility to be (true). Element locator (By.id: loginForm:j_idt36)" against "By.id: loginForm:j_idt36". @09-04-2023 16:27:05.0382 PM
+[ReportManager] Type "1" into "By.id: loginForm:j_idt36". @09-04-2023 16:27:06.0057 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //button[@id='loginForm:j_idt49']/span", isExpectedToBeVisible"true"... @09-04-2023 16:27:06.0081 PM
+[ReportManager] Wait to be ready "waited for the element's state of visibility to be (true). Element locator (By.xpath: //button[@id='loginForm:j_idt49']/span)" against "By.xpath: //button[@id='loginForm:j_idt49']/span". @09-04-2023 16:27:06.0594 PM
+[ReportManager] Click "By.xpath: //button[@id='loginForm:j_idt49']/span". @09-04-2023 16:27:07.0434 PM
+[ReportManager] Hover over "By.cssSelector: body > div.layout-wrapper.layout-rtl > div.layout-sidebar > div.sidebar-logo". @09-04-2023 16:27:10.0092 PM
+[ReportManager] Click "By.xpath: /html/body/div[1]/div[1]/div[1]/a[2]". @09-04-2023 16:28:11.0908 PM
+[ReportManager] Click "By.xpath: //*[@id="j_idt27:subMenu-menuSayyar"]/a/span[1]". @09-04-2023 16:28:12.0912 PM
+[ReportManager] Scroll to element "By.xpath: //*[@id="j_idt27:subMenu-SettingSayyar"]/a/span[1]". @09-04-2023 16:28:13.0597 PM
+[ReportManager] Click "By.xpath: //*[@id="j_idt27:subMenu-SettingSayyar"]/a/span[1]". @09-04-2023 16:28:14.0454 PM
+[ReportManager] Scroll to element "By.xpath: //*[@id="j_idt27:j_idt71"]/a/span[1]". @09-04-2023 16:28:15.0059 PM
+[ReportManager] Click "By.xpath: //*[@id="j_idt27:j_idt71"]/a/span[1]". @09-04-2023 16:28:16.0247 PM
+[ReportManager] Click "By.xpath: //button[@id='primetable:3:j_idt834_button']/span[2]". @09-04-2023 16:28:18.0691 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //div[@id='primetable:3:j_idt834_menu']/ul/li[2]/a/span", isExpectedToBeVisible"true"... @09-04-2023 16:28:18.0708 PM
+[ReportManager] Wait to be ready "waited for the element's state of visibility to be (true). Element locator (By.xpath: //div[@id='primetable:3:j_idt834_menu']/ul/li[2]/a/span)" against "By.xpath: //div[@id='primetable:3:j_idt834_menu']/ul/li[2]/a/span". @09-04-2023 16:28:19.0367 PM
+[ReportManager] Click "By.xpath: //div[@id='primetable:3:j_idt834_menu']/ul/li[2]/a/span". @09-04-2023 16:28:20.0133 PM
+[ReportManager] Scroll to element "By.xpath: //*[@id="period-creation-table_data"]/tr[last()-1]". @09-04-2023 16:28:23.0995 PM
+[ReportManager] Click " الاجراءات". @09-04-2023 16:28:24.0827 PM
+[ReportManager] Click "By.xpath: //*[@class="ui-menu ui-menu-dynamic ui-widget ui-widget-content ui-corner-all ui-helper-clearfix ui-shadow" ][last()]/ul/li[2]/a/span". @09-04-2023 16:29:04.0650 PM
+[ReportManager] Click "بداية فترة الانشاء *". @09-04-2023 16:29:40.0858 PM
+[ReportManager] Click "عرض شهر آخر". @09-04-2023 16:29:42.0807 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: /html/body/div[7]/div/div[2]/div/div/select[1]", isExpectedToBeVisible"true"... @09-04-2023 16:29:42.0834 PM
+[ReportManager] Wait to be ready "waited for the element's state of visibility to be (true). Element locator (By.xpath: /html/body/div[7]/div/div[2]/div/div/select[1])" against "عرض شهر آخر". @09-04-2023 16:29:43.0872 PM
+[ReportManager] Select "9/1444" from "عرض شهر آخر". @09-04-2023 16:29:44.0936 PM
+[ReportManager] Click "18". @09-04-2023 16:29:46.0621 PM
+[ReportManager] Click "نهاية فترة الانشاء *". @09-04-2023 16:29:47.0949 PM
+[ReportManager] Click "عرض شهر آخر". @09-04-2023 16:29:49.0339 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: /html/body/div[7]/div/div[2]/div/div/select[1]", isExpectedToBeVisible"true"... @09-04-2023 16:29:49.0362 PM
+[ReportManager] Wait to be ready "waited for the element's state of visibility to be (true). Element locator (By.xpath: /html/body/div[7]/div/div[2]/div/div/select[1])" against "عرض شهر آخر". @09-04-2023 16:29:50.0291 PM
+[ReportManager] Select "9/1444" from "عرض شهر آخر". @09-04-2023 16:29:51.0252 PM
+[ReportManager] Click "19". @09-04-2023 16:29:52.0973 PM
+[ReportManager] Type "00:00" into "التوقيت (البداية)*". @09-04-2023 16:29:53.0981 PM
+[ReportManager] Click "By.xpath: //div[@id='period-form-grid_content']/div[2]/div[2]/span". @09-04-2023 16:29:55.0121 PM
+[ReportManager] Type "23:00" into "التوقيت (النهاية)*". @09-04-2023 16:29:56.0029 PM
+[ReportManager] Scroll to element "القيمة*". @09-04-2023 16:29:56.0787 PM
+[ReportManager] Type "10" into "القيمة*". @09-04-2023 16:29:57.0778 PM
+[ReportManager] Scroll to element "حفظ". @09-04-2023 16:29:58.0685 PM
+[ReportManager] Click "By.xpath: //table/tbody/tr[1]/td[last()]/button/span[1]". @09-04-2023 16:29:59.0971 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //table/tbody/tr[2]/td[last()]/button/span[1]", isExpectedToBeVisible"true"... @09-04-2023 16:30:00.0013 PM
+[ReportManager] Wait to be ready "waited for the element's state of visibility to be (true). Element locator (By.xpath: //table/tbody/tr[2]/td[last()]/button/span[1])" against "By.xpath: //table/tbody/tr[2]/td[last()]/button/span[1]". @09-04-2023 16:30:00.0976 PM
+[ReportManager] Click "By.xpath: //table/tbody/tr[2]/td[last()]/button/span[1]". @09-04-2023 16:30:02.0096 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //table/tbody/tr[3]/td[last()]/button/span[1]", isExpectedToBeVisible"true"... @09-04-2023 16:30:02.0116 PM
+[ReportManager] Wait to be ready "waited for the element's state of visibility to be (true). Element locator (By.xpath: //table/tbody/tr[3]/td[last()]/button/span[1])" against "By.xpath: //table/tbody/tr[3]/td[last()]/button/span[1]". @09-04-2023 16:30:02.0973 PM
+[ReportManager] Click "By.xpath: //table/tbody/tr[3]/td[last()]/button/span[1]". @09-04-2023 16:30:04.0028 PM
+[ReportManager] Scroll to element "حفظ". @09-04-2023 16:30:04.0729 PM
+[ReportManager] Click "حفظ". @09-04-2023 16:30:05.0659 PM
+[ReportManager] Successfully created attachment 'Animated Gif - testAddNewCreationalPeriod' @09-04-2023 16:30:05.0715 PM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: setUp' @09-04-2023 16:30:05.0718 PM
